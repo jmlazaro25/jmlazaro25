@@ -11,28 +11,17 @@
 -->
 
 ### Languages and Tools:
-[<img align="left" alt="Python" width="26px" src="https://www.python.org/static/community_logos/python-powered-h-50x65.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+<img align="left" alt="Python" width="26px" src="https://www.python.org/static/community_logos/python-powered-h-50x65.png" />
+<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/240px-ISO_C%2B%2B_Logo.svg.png" />
+<img align="left" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
----
-
-<!--
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-1. 🗣 Commented on [#2](https://github.com/jmlazaro25/portfolio-sass/issues/2) in [jmlazaro25/portfolio-sass](https://github.com/jmlazaro25/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/jmlazaro25/portfolio-sass/issues/2) in [jmlazaro25/portfolio-sass](https://github.com/jmlazaro25/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/jmlazaro25/free-developer-resources/pull/11) in [jmlazaro25/free-developer-resources](https://github.com/jmlazaro25/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/jmlazaro25/free-developer-resources/issues/11) in [jmlazaro25/free-developer-resources](https://github.com/jmlazaro25/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/jmlazaro25/free-developer-resources/pull/10) in [jmlazaro25/free-developer-resources](https://github.com/jmlazaro25/free-developer-resources)
-
-</details>
--->
+<br></br>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
 
   [![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmlazaro25)](https://github.com/jmlazaro25/github-readme-stats)  
 
