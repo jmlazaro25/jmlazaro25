@@ -18,24 +18,22 @@
 
 ---
 
+<!--
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
-<!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/jmlazaro25/portfolio-sass/issues/2) in [jmlazaro25/portfolio-sass](https://github.com/jmlazaro25/portfolio-sass)
 2. ❗️ Closed issue [#2](https://github.com/jmlazaro25/portfolio-sass/issues/2) in [jmlazaro25/portfolio-sass](https://github.com/jmlazaro25/portfolio-sass)
 3. ❌ Closed PR [#11](https://github.com/jmlazaro25/free-developer-resources/pull/11) in [jmlazaro25/free-developer-resources](https://github.com/jmlazaro25/free-developer-resources)
 4. 🗣 Commented on [#11](https://github.com/jmlazaro25/free-developer-resources/issues/11) in [jmlazaro25/free-developer-resources](https://github.com/jmlazaro25/free-developer-resources)
 5. 🎉 Merged PR [#10](https://github.com/jmlazaro25/free-developer-resources/pull/10) in [jmlazaro25/free-developer-resources](https://github.com/jmlazaro25/free-developer-resources)
-<!--END_SECTION:activity-->
-
-</details>
-
-<!--
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="jmlazaro25's GitHub Stats" src="" />
 
 </details>
 -->
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  [![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmlazaro25)](https://github.com/jmlazaro25/github-readme-stats)  
+
+</details>
