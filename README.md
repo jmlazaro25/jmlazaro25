@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently studying plasma physics
 - 💬 Ask me about HEP, scientific programing, and pretty much anything else
-- 📫 How to reach me: jmlazaro@ucsb.edu
+- 📫 How to reach me: jmlazaro@mit.edu
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
